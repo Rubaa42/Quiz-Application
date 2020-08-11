@@ -1,0 +1,36 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color:#37474F !important;
+}
+.input-group{
+    margin-top: 20%;
+    margin-bottom: 30px;
+}
+.btn-outline-light{
+    margin-left: 41%;
+    font-weight: bold !important;
+}
+.card{
+    margin: 10% auto;
+}
+.active{
+    background-color: #37474F !important;
+    color: white;
+}
+.list-group-item{
+    cursor: pointer;
+}
+
+.fa-check-square-o{
+    font-size: 150px !important;
+    color: white;
+}
+.head , .sc ,#points{
+   color: white;
+}
+.cont{
+    margin: 12% auto;
+}
